@@ -1,1 +1,1 @@
-# Learn-Java-Postgres
+# Sample-Java-Postgres

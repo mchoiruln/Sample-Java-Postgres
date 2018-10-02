@@ -1,1 +1,2 @@
-# Sample-Java-Postgres
+# Sample Java Postgres
+
